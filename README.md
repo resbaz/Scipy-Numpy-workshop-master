@@ -9,8 +9,6 @@ There are currently a number of contruction works going on around the ERC howeve
 *From the Swanston St Tram Stop*  
 ![Tramstop.gif](https://github.com/resbaz/Pandas_May2018/blob/master/Swanston%20tram%20to%20colab.gif)
 
-*From House of Cards Coffee Shop*  
-![Coffee.gif](https://github.com/resbaz/Pandas_May2018/blob/master/House%20of%20Cards%20to%20Colab.gif)
 
 Workshop schedule:
 
