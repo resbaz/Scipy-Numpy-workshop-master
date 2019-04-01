@@ -1,4 +1,4 @@
-# Numpy-Scipy-meetup-September-2018
+# Numpy-Scipy-meetup-April-2019
 
 This repository contains the code and exercise data for the September Numpy and Scipy meetup, occuring on **April 1st at 4:30 pm** in the **Stop one room 111**
 
