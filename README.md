@@ -1,13 +1,14 @@
-# Numpy-Scipy-meetup-September-2018
+# Numpy-Scipy-meetup-April-2019
 
-This repository contains the code and exercise data for the September Numpy and Scipy meetup, occuring on **September 19th at 4:30 pm** in the **colab ERC.** 
+This repository contains the code and exercise data for the September Numpy and Scipy meetup, occuring on **April 1st at 4:30 pm** in the **Stop one room 111**
+
+To get to room 111 please enter stop one via the swanston street entrance, and then take the stairs on the left. THere will be signage!
 
 Please come with the numpy and scipy and jupyter notebooks installed.
 
 There are currently a number of contruction works going on around the ERC however, and accessibility is limited. For an animated version of how to get into our space, follow our (sometimes) resident ResDog Snickers!
 
-*From the Swanston St Tram Stop*  
-![Tramstop.gif](https://github.com/resbaz/Pandas_May2018/blob/master/Swanston%20tram%20to%20colab.gif)
+
 
 
 Workshop schedule:
