@@ -1,4 +1,4 @@
-# Numpy-Scipy-meetup-April-2019
+# Numpy-Scipy-meetup-August-2019
 
 This repository contains the code and exercise data for the September Numpy and Scipy meetup, occuring on **Tuesday August 13th from 1:00 pm to 5:00 pm** in **the Colab, RM 329, Eastern Resource Centre**
 
